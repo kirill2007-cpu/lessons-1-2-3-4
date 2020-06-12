@@ -1,9 +1,3 @@
-# arr = input() 
-# l = list(map(int,arr.split(' ')))
-# l.reverse()
-# print(l)
-
-
 from array import *
 
 newArray = array('i', [])
