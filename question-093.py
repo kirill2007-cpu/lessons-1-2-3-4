@@ -9,7 +9,6 @@ print('Enter five numbers: ')
 for y in range(0,5):
   newValue = int(input('Enter num: '))
   inputArray.append(newValue)
-
 sortedResult = sorted(inputArray)
 
 for i in range(len(sortedResult)):
